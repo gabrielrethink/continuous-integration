@@ -3,5 +3,5 @@ export const isAtopic = (owner: string) => {
 };
 
 export const isRafa = (owner: string) => {
-  return owner.toLowerCase() === 'rafa';
+  return owner.toLowerCase() === 'ybern';
 };

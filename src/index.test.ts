@@ -13,13 +13,13 @@ describe('is owner', () => {
 });
 
 describe('is owner brother?', () => {
-  it('Is Atopic True', () => {
-    expect(isRafa('rafa')).toBe(true);
+  it('Is rafa True', () => {
+    expect(isRafa('ybern')).toBe(true);
   });
-  it('Is Atopic True', () => {
-    expect(isRafa('RaFa')).toBe(true);
+  it('Is rafa True', () => {
+    expect(isRafa('ybern')).toBe(true);
   });
   it('Is Rafa to be False', () => {
-    expect(isRafa('Atopic')).toBe(false);
+    expect(isRafa('rafa')).toBe(false);
   });
 });
