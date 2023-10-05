@@ -1,5 +1,11 @@
 # atopic-ci
 
+## 0.0.6
+
+### Patch Changes
+
+- new patch
+
 ## 0.0.5
 
 ### Patch Changes
