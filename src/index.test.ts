@@ -19,7 +19,7 @@ describe('is owner brother?', () => {
   it('Is rafa True', () => {
     expect(isRafa('ybern')).toBe(true);
   });
-  it('Is Rafa to be False', () => {
+  it('Is Rafa to be False 2', () => {
     expect(isRafa('rafa')).toBe(false);
   });
 });
