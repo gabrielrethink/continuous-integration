@@ -1,4 +1,10 @@
-# continuous-integration
+# atopic-ci
+
+## 0.0.3
+
+### Patch Changes
+
+- changing package name
 
 ## 0.0.2
 
