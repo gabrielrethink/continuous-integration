@@ -1,4 +1,5 @@
 export const isAtopic = (owner: string) => {
+  console.log('VArias mudanças necessárias ');
   return owner.toLowerCase() === 'atopic';
 };
 
