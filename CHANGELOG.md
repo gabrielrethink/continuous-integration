@@ -1,5 +1,11 @@
 # atopic-ci
 
+## 0.0.8
+
+### Patch Changes
+
+- cc87d18: a path
+
 ## 0.0.7
 
 ### Patch Changes
