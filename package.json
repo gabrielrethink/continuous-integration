@@ -1,7 +1,7 @@
 {
-  "name": "continuous-integration",
+  "name": "atopic-ci",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -13,9 +13,9 @@
     "test": "vitest run"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.26.0",
-    "vitest": "^0.34.6",
+    "@changesets/cli": "^2.26.2",
     "tsup": "^6.5.0",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.4",
+    "vitest": "^0.34.6"
   }
 }
